@@ -1,4 +1,4 @@
 outs:
-- md5: fb8ed80ba6a72ee78deaf2b05250e4e0
-  size: 45664111
+- md5: a2fc05bedb5f525e6ba065e372a9b254
+  size: 4624207
   path: data.csv.gzip
